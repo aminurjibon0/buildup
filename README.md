@@ -1,2 +1,2 @@
 # buildup
-client website
+client website : https://aminurjibon0.github.io/buildup/
