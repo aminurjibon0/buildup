@@ -8,9 +8,6 @@ h3 {
     font-size: 38px;
     font-weight: 700;
 }
-.logo img {
-    max-width: 150px;
-}
 #banner {
     background: url(../images/banner.jpg);
     background-repeat: no-repeat;
